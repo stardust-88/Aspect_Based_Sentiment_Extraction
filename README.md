@@ -11,8 +11,8 @@ This article explores the use of a **pre-trained language model, BERT (Bidirecti
 
 ## Instructions to run and test files
 **Clone this repository and navigate to the project folder:** <br>
-```git clone```<br>
-```cd 'Aspect_Based_sentiment_Extraction'```
+```git clone https://github.com/stardust-88/Aspect_Based_Sentiment_Extraction.git```<br>
+```cd Aspect_Based_sentiment_Extraction```
 
 **To install the dependencies:** <br>
 ```pip3 install -r requirements.txt```
